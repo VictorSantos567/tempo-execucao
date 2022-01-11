@@ -1,14 +1,14 @@
-# tempo-execucao
-Tempo de execução de algoritmos 
+# Tempo de execução de algoritmos 
 
-Cenário I: ordenação de um vetor de inteiros aleatórios
-
-1 - Bolha (bubblesort)
-2 - mergesort, à sua escolha
+### Cenário I: ordenação de um vetor de inteiros aleatórios
+<ul>
+  <li>1 - Bolha (bubblesort)</li>
+  <li>2 - mergesort, à sua escolha</li>
+</ul>
 
 Crescentemente, cria vetores com 100, 1.000, 10.000... elementos, até o momento em que um dos algoritmos gastar mais do que 10 segundos para ordená-lo.
 
-Cenário II: recursividade com sobreposição
+### Cenário II: recursividade com sobreposição
 
 Série de Fibonacci com recursividade
 
